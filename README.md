@@ -12,6 +12,7 @@ It's an Parallax Website
 <br>
 <h3>mini project 3</h3>
 An Cool Photo Gallery using transition
+<h3>To Do List </h3>
 
 
 
